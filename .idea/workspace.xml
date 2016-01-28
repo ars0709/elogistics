@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8542377d-047f-4744-977c-89b62c67cc1c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/dataTables.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/dataTables.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/complete-callback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/fill-both.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/fill-horizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/examples/step-callback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/images/filler.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/alt_insert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/col_filter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/colvis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/fixedcolumns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/fixedheader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/new_init.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/predefined.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/realtime.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/reset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/server_side.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/examples/state_save.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/images/insert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/css/dataTables.colVis.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/css/dataTables.colVis.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/button_order.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/exclude_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/group_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/mouseover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/new_init.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/restore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/title_callback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/two_tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/examples/two_tables_identical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/js/dataTables.colVis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/ColVis/js/dataTables.colVis.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/col_filter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/colvis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/css_size.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/index_column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/left_right_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/right_column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/rowspan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/server-side-processing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/size_fixed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/size_fluid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/examples/two_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/examples/header_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/examples/top_left_right.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/examples/two_tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/examples/zIndexes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/examples/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/examples/html.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/examples/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/css/dataTables.responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/css/dataTables.responsive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/child-rows/column-control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/child-rows/custom-renderer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/child-rows/disable-child-rows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/child-rows/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/child-rows/right-column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/child-rows/whole-row-control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/display-control/auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/display-control/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/display-control/complexHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/display-control/fixedHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/display-control/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/display-control/init-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/initialisation/ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/initialisation/className.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/initialisation/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/initialisation/new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/initialisation/option.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/styling/compact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/examples/styling/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/js/dataTables.responsive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/css/dataTables.scroller.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/css/dataTables.scroller.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/api_scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/data/2500.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/data/ssp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/large_js_source.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/server-side_processing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/examples/state_saving.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/images/loading-background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/js/dataTables.scroller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/js/dataTables.scroller.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/alter_buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/button_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/collection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/defaults.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/multi_instance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/multiple_tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/new_init.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/pdf_message.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/plug-in.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/select_column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/select_multi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/select_os.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/select_single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/examples/swf_path.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/collection.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/collection_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/copy_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/csv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/csv_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/pdf_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/print.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/print_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/psd/collection.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/psd/copy document.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/psd/file_types.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/psd/printer.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/xls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/xls_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/swf/copy_csv_xls.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/swf/copy_csv_xls_pdf.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/images/sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/images/sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/images/sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/images/sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/images/sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/jquery.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/jquery.dataTables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/jquery.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/datatables/jquery.dataTables_themeroller.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loader.gif" afterPath="$PROJECT_DIR$/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/admin.css" afterPath="$PROJECT_DIR$/style/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ajax.js" afterPath="$PROJECT_DIR$/scripts/ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/config.js" afterPath="$PROJECT_DIR$/scripts/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/footer.php" afterPath="$PROJECT_DIR$/template/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/header.php" afterPath="$PROJECT_DIR$/template/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/home.php" afterPath="$PROJECT_DIR$/page/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/login.js" afterPath="$PROJECT_DIR$/scripts/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/uom.js" afterPath="$PROJECT_DIR$/scripts/uom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/uom.php" afterPath="$PROJECT_DIR$/page/uom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/uomlist.php" afterPath="$PROJECT_DIR$/page/uomlist.php" />
+    </list>
+    <ignored path="elogistics.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="elogistics" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7781065">
+              <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
+              <folding>
+                <marker date="1453988694000" expanded="true" signature="3179:3253" placeholder="..." />
+                <marker date="1453988694000" expanded="true" signature="3204:3253" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidemenu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/sidemenu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.5">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.041666">
+              <caret line="143" column="41" selection-start-line="143" selection-start-column="41" selection-end-line="143" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.25">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="e#6#85#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/uom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sessionwrite.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sessionwrite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/login.js" />
+        <option value="$PROJECT_DIR$/scripts/config.js" />
+        <option value="$PROJECT_DIR$/template/header.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/scripts/uom.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elogistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elogistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elogistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elogistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elogistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elogistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elogistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8542377d-047f-4744-977c-89b62c67cc1c" name="Default" comment="" />
+      <created>1453987971835</created>
+      <option name="number" value="Default" />
+      <updated>1453987971835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessionwrite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sidemenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.5">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.041666">
+          <caret line="143" column="41" selection-start-line="143" selection-start-column="41" selection-end-line="143" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/uom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7781065">
+          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
+          <folding>
+            <marker date="1453988694000" expanded="true" signature="3179:3253" placeholder="..." />
+            <marker date="1453988694000" expanded="true" signature="3204:3253" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

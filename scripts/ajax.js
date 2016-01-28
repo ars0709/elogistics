@@ -6,7 +6,7 @@
     $(document).ready(function() {
         $(document).on({
             ajaxStart: function(){ 
-                console.log('ajax');
+                // console.log('ajax');
                 $body.addClass("loading");},
             ajaxStop: function() { $body.removeClass("loading");}
         });
@@ -56,8 +56,10 @@ function ajxGetData(url,cb){
 
 }
 function ajxPostData(url,data,cb){
+    console.log(gToken);
     $.ajax({
         url: apiUrl+url,
+        "crossDomain": true,
         type: 'POST',
         dataType: 'json',
         data: data,
@@ -99,7 +101,9 @@ function ajxPostData(url,data,cb){
 }
 
 function ajxPutData(url,data,cb){
+
     $.ajax({
+
         url: apiUrl+url,
         type: 'PUT',
         dataType: 'json',

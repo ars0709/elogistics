@@ -1,6 +1,6 @@
 
-var apiUrl='http://localhost/logapi/';
-var hostUrl='http://localhost/elogistics/';
+var apiUrl='http://logapi.dev/';
+var hostUrl='http://log.dev/';
 
 
 var modeAir='air';
@@ -33,14 +33,14 @@ var step4Desc='Arrived To';
 var step5Desc='With Delivery';
 var step6Desc='Received By ';
 
-
 var dtTable={
     "bRetrieve": true,
     "bProcessing": true,
     "bDestroy": true,
     "responsive":true,
-    "language": {
-    "emptyTable": "No data available"}
+    "dom": 'Bfrtip',
+     buttons: ['csv', 'excel', 'pdf', 'print'],
+    "language": {"emptyTable": "No data available"}
 }
 var ba=null;
 var today = new Date();
@@ -49,6 +49,8 @@ var mm = today.getMonth()+1; //January is 0!
 var yyyy = today.getFullYear();
 var t=new Date();
 var hariIni=(t.getMonth()+1)+'/'+t.getDate()+'/'+t.getFullYear();
+var gToken;
+var gComp;  
 
 if(dd<10) {
     dd='0'+dd
@@ -58,6 +60,31 @@ if(mm<10) {
 }
 today = yyyy+'-'+mm+'-'+dd;
 today1 = dd+'/'+mm+'/'+yyyy;
+
+
+function cekNull(id,thenId){
+    if (id || typeof id != 'undefined'){
+        return id;
+    }else {
+        //console.log('brow');
+        if (thenId || typeof thenId != 'undefined'){
+            return thenId;
+        }else{
+            return '';
+            
+        }
+
+    }
+}
+
+function cekUndefined(id){
+    if (id){
+        return id;
+    }else {
+        return '';
+    }
+}
+
 
 
 

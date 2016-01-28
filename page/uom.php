@@ -8,19 +8,11 @@
 
 ?>
 
-<body class="hold-transition skin-blue sidebar-mini">
+<!-- <body class="hold-transition skin-blue sidebar-mini">
 		<div id="preloader">
 			<div id="status">&nbsp;</div>
 		</div>
-	<div class="wrapper">
-      <!-- Main Header -->
-      <?php include(G_APP_PATH.'template/header.php');?>
-<!-- Left side column. contains the logo and sidebar -->
-<?php include(G_APP_PATH.'template/sidemenu.php'); ?>
-<!-- Content Wrapper. Contains page content -->
-
-
-
+ -->	
 <!-- aslinya dari sini contennya-->
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
@@ -31,10 +23,10 @@
 
     </section>
 
+    
     <!-- Main content -->
     <section class="content">
         <!-- Your Page Content Here -->
-
         <div class="row">
             <div class="col-lg-12">
                 <div class="box box-info">
@@ -65,23 +57,11 @@
             </div>
 
         </div>
-
     </section><!-- /.content -->
 </div>
 
 <!-- sampe sini -->
 
 
-
-<!-- Main Footer -->
-
-<?php include (G_APP_PATH.'template/footer.php'); ?>
-<!-- Control Sidebar -->
-<?php include (G_APP_PATH.'template/sidemenu2.php'); ?>
-<!-- /.control-sidebar -->
-<!-- Add the sidebar's background. This div must be placed
-     immediately after the control sidebar -->
-<div class="control-sidebar-bg"></div>
-</div><!-- ./wrapper -->
 
 
